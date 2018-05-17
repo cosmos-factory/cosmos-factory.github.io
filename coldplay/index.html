@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.9.0/slick/slick.css">
     <link rel="stylesheet" href="../bootstrap-4.0.0/js/src/util.js">
     <link rel="stylesheet" href="css/main.min.css">
-    <link rel="stylesheet" type="text/css" href="styles/slick.css">
+    <link rel="stylesheet" type="text/css" href="js/slick.css">
     <link rel="stylesheet" type="text/css" href="styles/slick-theme.css">
   </head>
   <body>
@@ -972,82 +972,61 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.9.0/slick/slick.min.js"></script>
 <script src="slick/slick.js" type="text/javascript" charset="utf-8"></script>
 
-<script>
-  $('section h4').click(function (event) {
-      event.preventDefault();
-      $(this).addClass('active');
-      $(this).siblings().removeClass('active');
-  
-      var ph = $(this).parent().height();
-      var ch = $(this).next().height();
-  
-      if (ch > ph) {
-          $(this).parent().css({
-              'min-height': ch + 'px'
-          });
-      } else {
-          $(this).parent().css({
-              'height': 'auto'
-          });
-      }
-  });
-  
-</script>
-<script>
-  $(document).on('ready', function () {
-      $(".vertical-center-4").slick({
-          dots: true,
-          vertical: true,
-          centerMode: true,
-          slidesToShow: 4,
-          slidesToScroll: 2
-      });
-      $(".vertical-center-3").slick({
-          dots: true,
-          vertical: true,
-          centerMode: true,
-          slidesToShow: 3,
-          slidesToScroll: 3
-      });
-      $(".vertical-center-2").slick({
-          dots: true,
-          vertical: true,
-          centerMode: true,
-          slidesToShow: 2,
-          slidesToScroll: 2
-      });
-      $(".vertical-center").slick({
-          dots: true,
-          vertical: true,
-          centerMode: true
-      });
-      $(".vertical").slick({
-          dots: true,
-          vertical: true,
-          slidesToShow: 3,
-          slidesToScroll: 3
-      });
-      $(".regular").slick({
-          dots: true,
-          infinite: true,
-          slidesToShow: 3,
-          slidesToScroll: 3
-      });
-      $(".center").slick({
-          dots: true,
-          infinite: true,
-          centerMode: true,
-          slidesToShow: 5,
-          slidesToScroll: 3
-      });
-      $(".variable").slick({
-          dots: true,
-          infinite: true,
-          variableWidth: true
-      });
-      $(".lazy").slick({
-          lazyLoad: 'ondemand', // ondemand progressive anticipated
-          infinite: true
-      });
-  });
+<script type="text/javascript">
+    $(document).on('ready', function() {
+        $(".vertical-center-4").slick({
+            dots: true,
+            vertical: true,
+            centerMode: true,
+            slidesToShow: 4,
+            slidesToScroll: 2
+        });
+        $(".vertical-center-3").slick({
+            dots: true,
+            vertical: true,
+            centerMode: true,
+            slidesToShow: 3,
+            slidesToScroll: 3
+        });
+        $(".vertical-center-2").slick({
+            dots: true,
+            vertical: true,
+            centerMode: true,
+            slidesToShow: 2,
+            slidesToScroll: 2
+        });
+        $(".vertical-center").slick({
+            dots: true,
+            vertical: true,
+            centerMode: true,
+        });
+        $(".vertical").slick({
+            dots: true,
+            vertical: true,
+            slidesToShow: 3,
+            slidesToScroll: 3
+        });
+        $(".regular").slick({
+            dots: true,
+            infinite: true,
+            slidesToShow: 3,
+            slidesToScroll: 3
+        });
+        $(".center").slick({
+            dots: true,
+            infinite: true,
+            centerMode: true,
+            slidesToShow: 5,
+            slidesToScroll: 3
+        });
+        $(".variable").slick({
+            dots: true,
+            infinite: true,
+            variableWidth: true
+        });
+        $(".lazy").slick({
+            lazyLoad: 'ondemand', // ondemand progressive anticipated
+            infinite: true
+        });
+    });
 </script>
