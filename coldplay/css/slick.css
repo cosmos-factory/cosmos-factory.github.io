@@ -64,6 +64,7 @@
     display: table;
 
     content: '->';
+    color: #000;
 }
 .slick-track:after
 {
