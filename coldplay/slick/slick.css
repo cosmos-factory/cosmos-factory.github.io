@@ -1,4 +1,16 @@
 /* Slider */
+
+
+.slick-prev{
+    content: "";
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+
+
+
 .slick-slider
 {
     position: relative;
