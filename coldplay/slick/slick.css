@@ -14,9 +14,9 @@
     font-weight: 900; content: "\f104";
     color: #666;
     position: absolute;
-    top: 46px;
+    top: 0;
     left: -29px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .slick-next::after{
@@ -25,9 +25,9 @@
     font-weight: 900; content: "\f105";
     color: #666;
     position: absolute;
-    top: 46px;
+    top: 0;
     left: 1105px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 
