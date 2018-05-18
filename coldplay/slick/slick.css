@@ -59,7 +59,7 @@
 .slick-track:after {
     display: table;
 
-    content: '->';
+    content: '';
     color: #000;
 }
 
