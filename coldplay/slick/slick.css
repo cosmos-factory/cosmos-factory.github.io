@@ -1,4 +1,9 @@
 /* Slider */
+
+.multiple-items{
+    cursor: pointer;
+}
+
 .wr_posi{
     position: relative;
 }
@@ -10,7 +15,7 @@
     color: #666;
     position: absolute;
     top: 46px;
-    left: -47px;
+    left: -29px;
     font-size: 30px;
 }
 
