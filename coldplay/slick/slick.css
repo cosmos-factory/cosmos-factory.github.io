@@ -10,7 +10,7 @@
     color: #000;
     position: absolute;
     top: 30px;
-    left: -27px;
+    left: -47px;
 }
 
 .slick-next::after{
@@ -20,7 +20,7 @@
     color: #000;
     position: absolute;
     top: 50px;
-    left: 1000px;
+    left: 1200px;
 }
 
 
