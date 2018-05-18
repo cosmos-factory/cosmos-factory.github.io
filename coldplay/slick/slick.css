@@ -11,6 +11,7 @@
     position: absolute;
     top: 46px;
     left: -47px;
+    font-size: 30px;
 }
 
 .slick-next::after{
@@ -21,6 +22,7 @@
     position: absolute;
     top: 46px;
     left: 1095px;
+    font-size: 30px;
 }
 
 
