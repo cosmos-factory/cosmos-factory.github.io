@@ -1,4 +1,13 @@
 /* Slider */
+i:nth-child(1) {
+    padding-right: 34px;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900; content: "\f104";
+}
+
+
+
+
 .slick-slider
 {
     position: relative;
