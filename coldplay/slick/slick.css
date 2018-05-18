@@ -4,8 +4,8 @@
     cursor: pointer;
 }
 
-.multiple-items > img{
-    margin: 0;
+.slick-slide > img{
+    margin-left: 0;
     padding: 0;
 }
 
