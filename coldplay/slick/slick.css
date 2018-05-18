@@ -8,22 +8,22 @@
     position: relative;
 }
 
-.slick-prev::before {
+.slick-prev::after {
     padding-right: 34px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900; content: "\f104";
-    color: #666;
+    color: #9d9c9c;
     position: absolute;
     top: 0;
     left: -29px;
     font-size: 40px;
 }
 
-.slick-next::after{
+.slick-next::before{
     padding-right: 34px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900; content: "\f105";
-    color: #666;
+    color: #9d9c9c;
     position: absolute;
     top: 0;
     left: 1105px;
