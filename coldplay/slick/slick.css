@@ -4,13 +4,11 @@
     cursor: pointer;
 }
 
-.slick-slide > img{
+
+.center img{
+    justify-content: center;
     margin-left: 0;
     padding: 0;
-}
-
-.center{
-    justify-content: center;
 }
 
 .wr_posi{
