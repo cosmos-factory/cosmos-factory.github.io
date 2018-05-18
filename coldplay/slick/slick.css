@@ -2,7 +2,7 @@
 i::before {
     padding-right: 34px;
     font-family: "Font Awesome 5 Free";
-    font-weight: 900; content: "\f104";
+    font-weight: 900; content: "\f105";
     color: #000;
 }
 
@@ -10,7 +10,7 @@ i::before {
 i::after {
     padding-right: 34px;
     font-family: "Font Awesome 5 Free";
-    font-weight: 900; content: "\f105";
+    font-weight: 900; content: "\f104";
     color: #000;
 }
 
