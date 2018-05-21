@@ -4199,7 +4199,7 @@ span {
     left: 268px
 }
 
-.wrap_for_button > button {
+.wrap_for_button button {
     position: absolute;
     top: 193px;
     left: 268px
