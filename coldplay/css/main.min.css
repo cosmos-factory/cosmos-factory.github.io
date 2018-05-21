@@ -5132,13 +5132,10 @@ a {
     color: #0062CC
 }
 
-.w-par p{
+.w-par {
     color: #666;
     font-weight: 300;
     font-family: Ubuntu;
     font-size: 16px;
     line-height: 5px;
-}
-.phone{
-    display: flex;
 }
