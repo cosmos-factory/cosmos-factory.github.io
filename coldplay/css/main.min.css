@@ -4321,7 +4321,7 @@ copyright{
     margin-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
-    text-align: center;
+    padding-top: 8px;
     color: #ffffff
 }
 
@@ -5131,6 +5131,3 @@ a {
     color: #0062CC
 }
 
-wrap_cprt p{
-    vertical-align: center;
-}
