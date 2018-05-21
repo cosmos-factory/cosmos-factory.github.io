@@ -4312,6 +4312,11 @@ img.img {
     height: 0
 }
 
+copyright{
+    height: 120px;
+    line-height: 120px;
+}
+
 .copyright > a > p {
     margin-top: 0;
     margin-bottom: 0;
