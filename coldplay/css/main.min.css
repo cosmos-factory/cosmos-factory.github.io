@@ -4208,8 +4208,7 @@ span {
 .row.wrap_for_button > .btn {
     width: 200px;
     text-transform: uppercase;
-    background-color: #F52D26;<div class="row wrap_for_button">
-
+    background-color: #F52D26;
     border-color: #F52D26;
     color: #000;
     font-weight: 700
