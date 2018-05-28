@@ -118,8 +118,12 @@
         margin-left: 0;
     }
     .cont1 {
-        margin: 7px 5px 0 65px;
+        margin: 12px 5px 0 65px;
     }
+    #navbar {
+         margin: 0px;
+         padding: 0;
+     }
 }
 
  
