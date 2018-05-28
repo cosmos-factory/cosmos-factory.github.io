@@ -16,8 +16,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="241">
-                  <caret line="58" column="34" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="34" />
+                <state relative-caret-position="1394">
+                  <caret line="68" column="50" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="50" />
                 </state>
               </provider>
             </entry>
@@ -47,8 +47,8 @@
           <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="232">
-                  <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+                <state relative-caret-position="255">
+                  <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -123,22 +123,6 @@
               <item name="auto_lawyer" type="cbb8eebc:String" user="auto_lawyer" />
               <item name="css" type="cbb8eebc:String" user="css" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="auto_lawyer" type="cbb8eebc:String" user="auto_lawyer" />
-              <item name="js" type="cbb8eebc:String" user="js" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="auto_lawyer" type="cbb8eebc:String" user="auto_lawyer" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="auto_lawyer" type="cbb8eebc:String" user="auto_lawyer" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-              <item name="fancybox" type="cbb8eebc:String" user="fancybox" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,18 +170,17 @@
       <workItem from="1527257404007" duration="4010000" />
       <workItem from="1527484059267" duration="794000" />
       <workItem from="1527485092862" duration="785000" />
-      <workItem from="1527504781529" duration="2049000" />
+      <workItem from="1527504781529" duration="2306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="enabled" value="true" />
-    <option name="totallyTimeSpent" value="26567000" />
+    <option name="totallyTimeSpent" value="26824000" />
     <option name="showSpentTimeFromLastPost" value="true" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32626426" />
@@ -352,13 +335,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../autolawer/index.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="58" column="34" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -373,10 +349,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="68" column="50" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
         </state>
       </provider>
     </entry>
