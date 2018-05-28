@@ -1,0 +1,17 @@
+@media screen and (max-width: 1024px){
+    article{
+        width: 90%;
+    }
+    
+    .icon1, .icon2{
+        color: black; 
+    } 
+}
+ 
+ @media screen and (max-width: 768px){
+    
+}
+
+@media screen and (max-width: 1024px){
+    
+} 
