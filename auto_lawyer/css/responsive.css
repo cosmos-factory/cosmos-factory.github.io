@@ -105,7 +105,10 @@
         display: none;
     }
     .basics h1{
-        font-size: 18px;
+        font-size: 16px;
+    }
+    .basics h2{
+        font-size: 12px;
     }
 }
 
