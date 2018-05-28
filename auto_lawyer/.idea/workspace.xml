@@ -26,11 +26,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="181">
-                  <caret line="60" column="21" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="21" />
+                <state relative-caret-position="96">
+                  <caret line="55" selection-start-line="55" selection-end-line="55" />
                 </state>
               </provider>
             </entry>
@@ -44,11 +44,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="640">
-                  <caret line="109" column="1" lean-forward="true" selection-start-line="74" selection-end-line="109" selection-end-column="1" />
+                <state relative-caret-position="232">
+                  <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -71,8 +71,8 @@
         <option value="&lt;64b9e54f-7ca6-4ab1-a9cc-4bf6b1956575&gt;/www/cosmos-f.ru/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../autolawer/index.html" />
-        <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -186,13 +186,13 @@
       <workItem from="1527257404007" duration="4010000" />
       <workItem from="1527484059267" duration="794000" />
       <workItem from="1527485092862" duration="785000" />
-      <workItem from="1527504781529" duration="1782000" />
+      <workItem from="1527504781529" duration="2049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="enabled" value="true" />
-    <option name="totallyTimeSpent" value="26300000" />
+    <option name="totallyTimeSpent" value="26567000" />
     <option name="showSpentTimeFromLastPost" value="true" />
   </component>
   <component name="ToolWindowManager">
@@ -352,13 +352,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../autolawer/index.html" />
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -366,17 +359,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="109" column="1" lean-forward="true" selection-start-line="74" selection-end-line="109" selection-end-column="1" />
+        <state relative-caret-position="96">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="60" column="21" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="21" />
+        <state relative-caret-position="109">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
         </state>
       </provider>
     </entry>

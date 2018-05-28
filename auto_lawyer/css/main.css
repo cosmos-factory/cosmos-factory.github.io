@@ -53,42 +53,6 @@ article {
 }
 
 
-@media screen and (max-width: 334px){
-    .block_container menu{
-        display: list-item;
-    }
-    .cont_s white {
-        visibility: hidden;
-    }
-
-    .wheel{
-        width: 80%;
-        position: absolute;
-        padding-left: 0;
-        padding-top: 27px;
-        margin-left: 0;
-        left: 20px;
-    }
-
-    .explain{
-        width: 200px;
-        font-size: 13px;
-    }
-
-    .skills{
-        margin-bottom: 49px;
-    }
-
-    .title{
-        margin-bottom: 15px;
-        font-size: 20px;
-    }
-
-    .basics{
-        margin-bottom: 0;
-    }
-
-}
 
 
 
