@@ -3,7 +3,7 @@
         width: 90%;
     }
 
-    .cont_s white h3{
+    .cont_s white > h3{
         display: none;
     }
     
