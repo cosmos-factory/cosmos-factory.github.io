@@ -101,7 +101,9 @@
     #our_service {
         height: 940px;
     }
-
+    .menu h3{
+        display: none;
+    }
 }
 
  
