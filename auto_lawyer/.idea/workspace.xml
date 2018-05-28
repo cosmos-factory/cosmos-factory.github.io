@@ -62,7 +62,7 @@
       <find>first</find>
       <find>#first</find>
       <find>anchor-list</find>
-      <find>cont_s white</find>
+      <find />
       <find>block_container</find>
       <find>our_service</find>
       <find>article</find>
