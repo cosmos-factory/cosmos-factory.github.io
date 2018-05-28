@@ -113,6 +113,10 @@
     .cont3{
         display: none;
     }
+    .menu img{
+        padding-left: 0;
+        margin-left: 0;
+    }
 }
 
  
