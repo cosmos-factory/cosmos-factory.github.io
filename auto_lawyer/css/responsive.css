@@ -76,6 +76,9 @@
     .block_container menu{
         display: list-item;
     }
+    .cont_s white{
+        display: none;
+    }
 
     .wheel{
         width: 80%;
