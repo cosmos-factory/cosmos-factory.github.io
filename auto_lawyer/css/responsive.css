@@ -29,9 +29,7 @@
     #program{
          height: auto;
      }
-    
 
-    
     .wheel{
         width: 80%;
         position: absolute;
@@ -46,6 +44,7 @@
         width: 70%;
         margin: 0 auto 20px auto;
    }
+
 }
  
  @media screen and (max-width: 768px){
@@ -98,6 +97,9 @@
     
     .basics{
         margin-bottom: 0;
+    }
+    #our_service {
+        height: 640px;
     }
 
 }
