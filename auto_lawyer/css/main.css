@@ -57,7 +57,7 @@ article {
     .block_container menu{
         display: list-item;
     }
-    .cont_s white h3{
+    .cont_s white {
         visibility: hidden;
     }
 
