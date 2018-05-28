@@ -68,21 +68,11 @@
         font-size: 28px;
         margin-bottom: 55px;
     }
-    h3{
-        font-size: 80px;
-    }
     
 } 
 
 
 @media screen and (max-width: 334px){
-    .block_container menu{
-        display: list-item;
-    }
-    .cont_s white{
-        visibility: hidden;
-    }
-
     .wheel{
         width: 80%;
         position: absolute;
