@@ -13,17 +13,13 @@
   </url>
   
   <url>
-    <loc>https://cosmos-factory.github.io/testblog/public/parent/blog/</loc>
-    <lastmod>2018-07-07T13:41:24+05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cosmos-factory.github.io/testblog/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cosmos-factory.github.io/testblog/public/parent/</loc>
+    <lastmod>2018-07-07T13:50:39+05:00</lastmod>
     <priority>0</priority>
   </url>
   
